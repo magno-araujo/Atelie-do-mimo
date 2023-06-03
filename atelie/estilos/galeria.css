@@ -3,11 +3,18 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+
+main{
+    height: 100%;
+}
+
 #galeria{
     display: flex;
     flex-wrap: wrap;
     align-items: start;
     justify-content:start;
+    
     
     
 
