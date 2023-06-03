@@ -1,0 +1,64 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    
+    @media screen and (max-width:700px) {
+    
+        nav {
+            width: 100vw;
+            justify-content: center;
+            margin: auto;
+            display: flex;
+    
+    
+        }
+
+        #galeria{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: start;
+            justify-content:start;
+            margin: auto;
+           
+        }
+
+        .foto{
+            width: 182px;
+            margin-left: 3px;
+       
+        }
+
+        .foto img{
+           width: 180px;
+            height: 220px;
+        }
+    
+        main{
+            height: 100%;
+        }
+    
+        
+.foto:target{
+    position: fixed;  
+    border: 1px solid black;
+    padding: 5px;
+    box-shadow: 0 0 25px 10px #000;
+    background: white;
+    border-radius: 5px;
+    width: 360px;
+    height: 410px;
+    left: 12vw;
+    top: 50px;
+    
+  }
+  .foto:target img{    
+      width: 350px;
+      height: 400px;
+  }
+ 
+  
+
+        
+    }
