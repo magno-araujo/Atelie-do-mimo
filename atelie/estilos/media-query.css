@@ -28,17 +28,19 @@
         margin-top: -40px;
     }
   
+   
 
 
 
 
     main>a {
         display: flex;
-        width: 140px;
-        height: 50px;
+        width: 130px;
+        height: 40px;
         font-size: 0.8em;  
         align-items: center;
-        justify-content: center;    
+        justify-content: center;  
+         
            }
 
     .escolar {
