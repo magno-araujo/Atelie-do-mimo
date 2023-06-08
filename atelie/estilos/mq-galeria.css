@@ -16,18 +16,17 @@
         }
 
         #galeria{
-            display: flex;
-            flex-wrap: wrap;
-            align-items: start;
-            justify-content:start;
-            margin: auto;
-           
+            display: flex;           
+    
         }
 
         .foto{
             width: 145px;            
-            margin-bottom: 10px;            
-            margin-right: 5px;
+            margin: auto;
+            margin-bottom: 10px;  
+            
+
+           
             
             
             
@@ -40,12 +39,13 @@
             height: 150px;
             box-shadow: 0px 2px 4px black;
             border-radius: 15px;
+            
         }
     
         main{
             height: 100%;
           padding: 10px;  
-          
+          width: 90vw;          
          
         
         }
