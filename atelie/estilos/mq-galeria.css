@@ -25,14 +25,15 @@
         }
 
         .foto{
-            width: 182px;
-            margin-left: 3px;
+            width: 175px;
+            margin: auto;
+            margin-bottom: 10px;
        
         }
 
         .foto img{
            width: 180px;
-            height: 220px;
+            height: 200px;
         }
     
         main{
