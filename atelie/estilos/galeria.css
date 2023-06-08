@@ -7,6 +7,7 @@
 
 main{
     height: 100%;
+    box-shadow: 0px 5px 10px black;
 }
 
 #galeria{
@@ -25,7 +26,8 @@ main{
    
     width: 400px;
    margin-left: 37px;
-   margin-bottom: 25px;
+   margin-bottom: 60px;
+   
    
 }
 
@@ -35,6 +37,7 @@ main{
     width: 350px; 
     height: 400px; 
     display: block;
+    box-shadow: 0px 5px 10px black;
    
 }
 .detalhes{
