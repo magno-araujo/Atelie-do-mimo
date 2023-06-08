@@ -70,16 +70,13 @@ main{
     margin-top: -50px;
 
 }
-.foto:target .detalhes a{
-    border: 1px solid black;
-    padding: 2px;
-    border-radius: 50%;
-    text-decoration: none;
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    margin-left: 20px;
-    margin-top: -100px;
+
+.foto:target .detalhes a> img {
+    padding: 10px;
+    margin-top: -30px;
+    margin-left: 5px;
+    width: 50px;
+    height: 50px;
 }
 
 
