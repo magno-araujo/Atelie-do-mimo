@@ -38,6 +38,7 @@ main{
     height: 400px; 
     display: block;
     box-shadow: 0px 5px 10px black;
+    border-radius: 15px;
    
 }
 .detalhes{
